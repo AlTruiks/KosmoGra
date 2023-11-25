@@ -1,0 +1,18 @@
+﻿  Bullet.cpp
+  Enemy.cpp
+  Game.cpp
+E:\studia\1 semestr\PI\Projekt\SFML-kosmo\SFML-kosmo\Game.cpp(66,82): warning C4244: 'argument': conversion from 'T' to 'const float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+E:\studia\1 semestr\PI\Projekt\SFML-kosmo\SFML-kosmo\Game.cpp(66,53): warning C4244: 'argument': conversion from 'T' to 'const float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Player.cpp
+  Source.cpp
+E:\studia\1 semestr\PI\Projekt\SFML-kosmo\SFML-kosmo\Source.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  SFML-kosmo.vcxproj -> E:\studia\1 semestr\PI\Projekt\SFML-kosmo\x64\Debug\SFML-kosmo.exe
